@@ -1,15 +1,13 @@
-# Appointment Booking
+# Appointment Booking Platform
 
-An appointment booking application built with Next.js.
-
-## Getting Started
-
-Install dependencies:
-
-npm install
-
-Run the development server:
-
-npm run dev
-
-Open http://localhost:3000 in your browser.
+## Description
+## Live Demo
+## Test Credentials
+## Tech Stack
+## Architecture
+## Data Model
+## Time Zones
+## Double Booking Prevention
+## Webhooks & Payment Flow
+## Local Setup
+## Known Limitations
