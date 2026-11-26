@@ -1,3 +1,20 @@
-node_modules
-.next
 prisma/migrations
+
+
+# Dependencies and build output
+node_modules/
+.next/
+out/
+build/
+coverage/
+
+# Generated Prisma client
+app/generated/
+
+# Prisma documentation and agent skills
+.agents/
+.claude/
+.windsurf/
+
+# Environment files
+.env*
